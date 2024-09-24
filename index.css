@@ -178,7 +178,7 @@ article{
 
 .trade-mrk{
     display: flex;
-    gap: 150px;
+    gap: 135px;
     position: absolute;
     top: 10px;
     left: 20px;
@@ -256,7 +256,7 @@ article{
     border-radius: 100%;
     position: relative;
     right: -140px;
-    top: -340px;
+    top: -360px;
  /*    padding: 90px; */
     display: flex;
     justify-content: center;
