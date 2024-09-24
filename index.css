@@ -165,18 +165,20 @@ article{
     margin-left: 10px;
     margin-right: 10px;
   /*   margin: 0 auto; */
+  margin-bottom: 10px;
 }
 
 .background{
     width: 100%;
     border-radius: 20px;
-    margin: 0 auto;
+ /*    margin: 0 auto; */
+ 
 }
 
 
 .trade-mrk{
     display: flex;
-    gap: 90px;
+    gap: 150px;
     position: absolute;
     top: 10px;
     left: 20px;
@@ -195,7 +197,7 @@ article{
     position: absolute;
     top: 60px;
     color: #fff;
-    gap: 7px;
+    gap: 20px;
 }
 
 .options-txt:hover{
@@ -239,7 +241,7 @@ article{
 .sub-txt{
     width: 90px;
     position: relative;
-     bottom: 350px;
+     bottom: 390px;
     left: 10px;
     color: #fff;
     font-size: 20px;
@@ -253,8 +255,8 @@ article{
     background-color: #fff;
     border-radius: 100%;
     position: relative;
-    right: -95px;
-    top: -320px;
+    right: -140px;
+    top: -340px;
  /*    padding: 90px; */
     display: flex;
     justify-content: center;
